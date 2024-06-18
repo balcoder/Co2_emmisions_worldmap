@@ -1,0 +1,14 @@
+$base-color: #c1c8be;
+$border-dark: rgba($base-color, 0.08);
+
+body {
+    background-color: $base-color;
+    font-size: 24px;
+}
+#example {
+    padding: 10%;
+
+    .info {
+        margin: 20px;
+    }
+}

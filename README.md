@@ -1,4 +1,6 @@
-# NPM Scripts
+# World Co2 Emmisions Dashboard
+
+# How the bulid tool works
 
 This is a simple npm script based build tool to build simple web apps. It has some sample files and sass to test the build process.
 
